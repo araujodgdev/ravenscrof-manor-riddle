@@ -12,8 +12,8 @@ setup(
             'enigma=enigma_ravenscroft.main:main',
         ],
     },
-    author='Seu Nome',
-    author_email='seuemail@example.com',
+    author='Douglas Araújo',
+    author_email='araujodgdev@gmail.com',
     description='Um jogo de aventura em linha de comando: O Enigma de Ravenscroft Manor',
     url='https://github.com/seuusuario/enigma_ravenscroft',  # Substitua pelo link do seu repositório
     classifiers=[
